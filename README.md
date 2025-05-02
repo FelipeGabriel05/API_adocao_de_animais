@@ -1,5 +1,10 @@
 # API Adoção de Animais
-<p>Api feita em Django rest framework </p>
+* Api feita em Django rest framework, utilizando os metodos get, post e delete.
+* Nessa api é feito o cadastro de um novo pet e também a exclusão de um pet já adicionado.
+
+# URLS
+* api/pets => lista todos os pets
+* api/pet/id => mostra o pet correspondente ao id da url.
 
 # Instalação
 Instale usando o pip.
