@@ -6,8 +6,8 @@
 * api/pets => lista todos os pets
 * api/pet/id => mostra o pet correspondente ao id da url.
 
-# Instalação
-Instale usando o pip.
+# Biblioteca usada
+Instalado usando o pip.
 * pip install djangorestframework
 
 # Ambiente virtual
