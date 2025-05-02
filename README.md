@@ -6,8 +6,8 @@ Instale usando o pip.
 * pip install djangorestframework
 
 # Ambiente virtual
-* Ativar no windoows: env/Scripts/Activate.ps1
-* Desativa no winsdows: deactivate
+* Ativar no windows: env/Scripts/Activate.ps1
+* Desativa no windows: deactivate
 
 # Executando a api
 * Ative o ambiente virtual, nela estão contidos as bibliotecas utilizadas na aplicação
