@@ -6,5 +6,5 @@ Instale usando o pip.
 * pip install djangorestframework
 
 # Ambiente virtual
-* Ativar no windoows: nome_do_ambiente/Scripts/Activate.ps1
+* Ativar no windoows: env/Scripts/Activate.ps1
 * Desativa no winsdows: deactivate
