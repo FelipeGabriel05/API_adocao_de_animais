@@ -1,6 +1,7 @@
 # API Adoção de Animais
 * Api feita em Django rest framework, utilizando os metodos get, post e delete.
 * Nessa api é feito o cadastro de um novo pet e também a exclusão de um pet já adicionado.
+* A proposta é listar todos os pets disponíveis para adoção.
 
 # URLS
 * api/pets => lista todos os pets
@@ -16,7 +17,7 @@ Instalado usando o pip.
 
 # Executando a api
 * Ative o ambiente virtual, nela estão contidos as bibliotecas utilizadas na aplicação
-* Em seguida, acesse api_pets. No windows cd api_pets
+* Em seguida, acesse api_pets. Com o comando: cd api_pets [para windows].
 * python manage.py runserver
 
 # Caso haja migrações para serem feitas
